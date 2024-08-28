@@ -10,9 +10,13 @@ This repository contains code for tracking an object's trajectory and plotting t
 2. cv2
 3. matplotlib
    
-'''
+## Installation
+
+To set up the required Python packages, run the following command:
+
+```bash
 sudo apt-get install python3-numpy python3-opencv python3-matplotlib
-'''
+```
 
 # Pipeline
 
